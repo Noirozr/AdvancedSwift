@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Liebrom/Swift/advanced-swift/.build/debug/advanced_swift.build/master.swiftdeps"
+  },
+  "/Users/Liebrom/Swift/advanced-swift/Sources/main.swift": {
+    "dependencies": "/Users/Liebrom/Swift/advanced-swift/.build/debug/advanced_swift.build/main.d",
+    "object": "/Users/Liebrom/Swift/advanced-swift/.build/debug/advanced_swift.build/main.swift.o",
+    "swiftmodule": "/Users/Liebrom/Swift/advanced-swift/.build/debug/advanced_swift.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Liebrom/Swift/advanced-swift/.build/debug/advanced_swift.build/main.swiftdeps"
+  }
+}

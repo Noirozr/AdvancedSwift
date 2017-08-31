@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "f3746035d57db17c3538d74e30ec4fcb"
+build_time: [557505364, 441016000]
+inputs:
+  "/Users/Liebrom/Swift/advanced-swift/Sources/main.swift": [557505336, 0]
