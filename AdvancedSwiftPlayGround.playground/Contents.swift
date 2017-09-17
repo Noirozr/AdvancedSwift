@@ -33,3 +33,17 @@ swiftArray.dropLast()
 swiftArray.dropFirst()
 swiftArray.dropFirst(2)
 swiftArray.dropLast(2)
+
+var squared: [Int] = []
+for fib in fibs {
+    squared.append(fib * fib)
+}
+
+squared
+
+let squares = fibs.map{fib in fib * fib}
+squares
+
+let fibsLessThanTen = fibs.filter {fib in fib < 10}
+fibsLessThanTen
+
